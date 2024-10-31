@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phuc5807" alt="phuc5807" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+
 - 🔭 I’m currently working on testing programs [Thue xe](https://github.com/Phuc5807/Nhom10-QLThueXe-.git)
 
 - 🌱 I’m currently learning **testing programs, application, project management**
