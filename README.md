@@ -31,3 +31,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuc5807&show_icons=true&locale=en" alt="phuc5807" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuc5807&" alt="phuc5807" /></p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<br/><br/><br/>
+</div>
