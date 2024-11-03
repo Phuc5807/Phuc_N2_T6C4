@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **testing programs, application, project management**
 
-- 🤝 I’m looking for help with internship testing and FE or BE [Book reading app](https://github.com/PPToan2004/DoAnAndroid.git)
+- 🤝 I’m looking for help with internship testing and FE or BE [Book reading app](https://github.com/PPToan2004/DoAnAndroid.git) , [Thuoc Tay Store Desktop](https://github.com/Phuc5807/ThuocTay.git)
 
 - 💬 Ask me about **java and c#, react, android, figma, SQL**
 
