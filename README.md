@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-- 🔭 I’m currently working on testing programs [Thue xe](https://github.com/Phuc5807/Nhom10-QLThueXe-.git) , [Phong kham](https://github.com/Phuc5807/PhongKham.git)
+- 🔭 I’m currently working on testing programs [Thue xe](https://github.com/Phuc5807/Nhom10-QLThueXe-.git) , [Phong kham](https://github.com/Phuc5807/PhongKham.git) , [Pharmacy Store](https://github.com/Phuc5807/Pharmacy.git)
 
 - 🌱 I’m currently learning **testing programs, application, project management**
 
