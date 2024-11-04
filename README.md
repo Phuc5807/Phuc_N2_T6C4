@@ -21,7 +21,14 @@
 
 - ⚡ Fun fact **I think I am diligent in study and work, and like to learn technology courses**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Current and Future Goals in Software Technology</h3>
+
+<img align="right" height="290" width="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  />
+
+- As a third-year software engineering student, my current goal is to build a strong foundation in **programming, algorithms, and software development methodologies**. I am focusing on hands-on experience through projects, internships, and learning the latest technologies to improve my skills in areas like **Java and C# web development, and database management**. I aim to deepen my understanding of **both front-end and back-end development**, alongside enhancing my problem-solving and critical thinking abilities.
+
+- Looking ahead, my future goal is to specialize in a field such **full-stack development**. I aspire to work in an innovative company where I can apply my skills to real-world challenges, contribute to impactful projects, and grow as a professional. Eventually, I would like such as a software architect or project manager. Additionally, **I plan to continue learning and adapting to emerging technologies to remain competitive and proficient in the fast-evolving tech landscape**.
+
 <p align="left">
 </p>
 
