@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phuc5807" alt="phuc5807" /></a> </p>
 
+<h3 align="left">About me:</h3>
+
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 - 🔭 I’m currently working on testing programs [Thue xe](https://github.com/Phuc5807/Nhom10-QLThueXe-.git) , [Phong kham](https://github.com/Phuc5807/PhongKham.git) , [Pharmacy Store](https://github.com/Phuc5807/Pharmacy.git)
@@ -21,14 +23,48 @@
 
 - ⚡ Fun fact **I think I am diligent in study and work, and like to learn technology courses**
 
-<h3 align="left">Current and Future Goals in Software Technology</h3>
+<h3 align="left">Current and Future Goals in Software Technology:</h3>
 
-<img align="right" height="290" width="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  />
+<img align="right" height="290" width="300" alt="coding" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  />
 
 - As a third-year software engineering student, my current goal is to build a strong foundation in **programming, algorithms, and software development methodologies**. I am focusing on hands-on experience through projects, internships, and learning the latest technologies to improve my skills in areas like **Java and C# web development, and database management**. I aim to deepen my understanding of **both front-end and back-end development**, alongside enhancing my problem-solving and critical thinking abilities.
 
 - Looking ahead, my future goal is to specialize in a field such **full-stack development**. I aspire to work in an innovative company where I can apply my skills to real-world challenges, contribute to impactful projects, and grow as a professional. Eventually, I would like such as a software architect or project manager. Additionally, **I plan to continue learning and adapting to emerging technologies to remain competitive and proficient in the fast-evolving tech landscape**.
 
+<h3 align="left">Technology channels, blogs and courses I watch:</h3>
+
+<h4 align="left">C# Language:</h4>
+
+<img align="right" height="150" width="150" alt="coding" src="https://i.redd.it/vzkhe4s8dlab1.gif">
+    
+- Youtube: [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUULDJ9tZd3lc0rcH4W5SNSoW) , [freeCodeCamp.org](https://www.youtube.com/watch?v=YrtFtdTTfv0) , [HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK)
+
+- Courses: [W3schools](https://www.w3schools.com/cs/index.php) , [Microsoft](https://dotnet.microsoft.com/en-us/learn/csharp)
+
+- Exercise: [HowKteam](https://howkteam.vn/course/bai-tap-lap-trinh-44)
+<br></br>
+
+<h4 align="left">Java Language:</h4>
+
+<img align="right" height="150" width="150" alt="coding" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif">
+
+- Youtube: [Hỏi dân IT](https://www.youtube.com/watch?v=7L0RLrfrBHE&list=PLncHg6Kn2JT5EVkhKoJmzOytHY39Mrf_o&index=1) 
+
+- Courses: [W3schools](https://www.w3schools.com/java/default.asp) , [Learnjavaonline.org](https://www.learnjavaonline.org/)
+
+- Exercise: [Geeksforgeeks](https://www.geeksforgeeks.org/java-exercises/)
+<br></br>
+
+<h4 align ="left">HTML && CSS:</h4>
+
+<img align="right" height="150" width="150" alt="coding" src="https://camo.githubusercontent.com/66ce970290781501cbd9cc8c5ee32bc207e185917b1f4562c1815d9fc94b8578/68747470733a2f2f6269712e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032312f30332f3335352d68746d6c2d616e642d4353532e676966">
+
+- Youtube: [F8 Official](https://www.youtube.com/playlist?list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz)
+
+- Courses: [W3schools HTML](https://www.w3schools.com/html/default.asp) , [W3shools CSS](https://www.w3schools.com/css/default.asp)
+
+- Exercise: [W3resource](https://www.w3resource.com/html-css-exercise/main-html-css-exercises.php#google_vignette)
+<br></br><br></br>
 <p align="left">
 </p>
 
